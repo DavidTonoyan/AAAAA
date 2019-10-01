@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\C#\AAAAA\bin\Debug\netcoreapp3.0\AAAAA.exe
+C:\Users\HP\Documents\C#\AAAAA\bin\Debug\netcoreapp3.0\AAAAA.deps.json
+C:\Users\HP\Documents\C#\AAAAA\bin\Debug\netcoreapp3.0\AAAAA.runtimeconfig.json
+C:\Users\HP\Documents\C#\AAAAA\bin\Debug\netcoreapp3.0\AAAAA.runtimeconfig.dev.json
+C:\Users\HP\Documents\C#\AAAAA\bin\Debug\netcoreapp3.0\AAAAA.dll
+C:\Users\HP\Documents\C#\AAAAA\bin\Debug\netcoreapp3.0\AAAAA.pdb
+C:\Users\HP\Documents\C#\AAAAA\obj\Debug\netcoreapp3.0\AAAAA.csprojAssemblyReference.cache
+C:\Users\HP\Documents\C#\AAAAA\obj\Debug\netcoreapp3.0\AAAAA.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C#\AAAAA\obj\Debug\netcoreapp3.0\AAAAA.AssemblyInfo.cs
+C:\Users\HP\Documents\C#\AAAAA\obj\Debug\netcoreapp3.0\AAAAA.dll
+C:\Users\HP\Documents\C#\AAAAA\obj\Debug\netcoreapp3.0\AAAAA.pdb
